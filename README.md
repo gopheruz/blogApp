@@ -1,1 +1,1 @@
-# blogApp
+# blog_db
